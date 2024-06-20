@@ -5,7 +5,7 @@
 
 Main Application:
 
-![Alt text](main_app.png?raw=true "Optional Title")
+![Alt text](Screenshots/main_app.png?raw=true "Optional Title")
 
 
 <br>
@@ -15,9 +15,12 @@ Main Application:
 
 With Results:
 
-![Alt text](with_result.png?raw=true "Optional Title")
+![Alt text](Screenshots/with_result.png?raw=true "Optional Title")
 
 
 
+<br>
+<br>
+<br>
 
-.NET 8.0 Windows Forms application.
+I made this in C# .NET 8.0 Windows Forms application.

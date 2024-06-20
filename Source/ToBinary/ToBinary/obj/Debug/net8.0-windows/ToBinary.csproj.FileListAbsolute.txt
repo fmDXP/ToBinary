@@ -1,0 +1,17 @@
+C:\Users\Dany\source\repos\ToBinary\ToBinary\bin\Debug\net8.0-windows\ToBinary.exe
+C:\Users\Dany\source\repos\ToBinary\ToBinary\bin\Debug\net8.0-windows\ToBinary.deps.json
+C:\Users\Dany\source\repos\ToBinary\ToBinary\bin\Debug\net8.0-windows\ToBinary.runtimeconfig.json
+C:\Users\Dany\source\repos\ToBinary\ToBinary\bin\Debug\net8.0-windows\ToBinary.dll
+C:\Users\Dany\source\repos\ToBinary\ToBinary\bin\Debug\net8.0-windows\ToBinary.pdb
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.Form1.resources
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.csproj.GenerateResource.cache
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.AssemblyInfoInputs.cache
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.AssemblyInfo.cs
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.csproj.CoreCompileInputs.cache
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.dll
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\refint\ToBinary.dll
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.pdb
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.genruntimeconfig.cache
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ref\ToBinary.dll
+C:\Users\Dany\source\repos\ToBinary\ToBinary\obj\Debug\net8.0-windows\ToBinary.Resutl.resources

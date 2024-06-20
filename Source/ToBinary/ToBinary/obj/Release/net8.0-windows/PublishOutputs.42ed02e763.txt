@@ -1,0 +1,5 @@
+C:\Users\Dany\Desktop\ToBinary_r2\ToBinary.exe
+C:\Users\Dany\Desktop\ToBinary_r2\ToBinary.dll
+C:\Users\Dany\Desktop\ToBinary_r2\ToBinary.deps.json
+C:\Users\Dany\Desktop\ToBinary_r2\ToBinary.runtimeconfig.json
+C:\Users\Dany\Desktop\ToBinary_r2\ToBinary.pdb
